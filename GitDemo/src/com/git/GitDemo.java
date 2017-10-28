@@ -8,4 +8,7 @@ public class GitDemo {
 		System.out.println("Welcome to Java");
 		System.out.println("After Change..");
 	}
+	public void m1(){
+		System.out.println("Added Method");
+	}
 }
