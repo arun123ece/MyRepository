@@ -10,6 +10,5 @@ public class GitDemo {
 	}
 	public void m1(){
 		System.out.println("Added Method");
-		System.out.println("Branch 1 Added");
 	}
 }
